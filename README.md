@@ -4,7 +4,7 @@ Project này xây dựng hệ thống AI hỗ trợ phân loại hồ sơ thuộ
 
 ## Chạy từ GitHub
 
-Trong repository GitHub, mã nguồn của project nằm ở thư mục `heart-disease-ai`. Sau khi clone, hãy mở terminal tại thư mục này trước khi chạy các lệnh bên dưới. Dữ liệu, model, biểu đồ và báo cáo được tạo lại tự động nên không được lưu trong Git.
+Sau khi clone repository, hãy mở terminal tại thư mục gốc của project trước khi chạy các lệnh bên dưới. Dữ liệu, model, biểu đồ và báo cáo được tạo lại tự động nên không được lưu trong Git.
 
 ## Mục tiêu để nhắm bài 10 điểm
 
