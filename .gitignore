@@ -1,0 +1,22 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.streamlit/secrets.toml
+.matplotlib/
+
+# Runtime output: recreated by the documented data-collection and training commands.
+data/
+models/
+reports/
+
+# Deliverables and generated build/render artifacts are not part of the runnable source.
+deliverables/
+build_artifacts/
+notebooks/
+*.pdf
+*.docx
+*.pptx
+
+# Local Streamlit state and user-entered patient records.
+.streamlit/
